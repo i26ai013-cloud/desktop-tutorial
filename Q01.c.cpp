@@ -1,4 +1,4 @@
-//Program 1: program to calculate simple interest.
+// Program 1: program to calculate simple interest.
 #include <stdio.h>
 int main()
 {
